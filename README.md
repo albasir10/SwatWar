@@ -1,5 +1,5 @@
 This is my project for review.
-I used several programming patterns for the demo.
+I used several programming patterns + async for the demo.
 I removed the character model, but you can see his colliders.
 
 In this scene you can:
@@ -9,7 +9,7 @@ In this scene you can:
 4) There is a floor object next to the open room, it has a cell generation script on it.
 
 Это мой проект для просмотра.
-Я использовал несколько паттернов программирования для демонстрации.
+Я использовал несколько паттернов программирования + асинхронное программирование для демонстрации.
 Я удалил модель персонажа, но вы можете увидеть его коллайдеры.
 
 На этой сцене вы можете:
